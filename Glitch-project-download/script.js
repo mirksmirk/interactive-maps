@@ -2,12 +2,12 @@
 /* global L */
 
 var map = L.map('map').setView([68, 18], 8);
-    
+
 var campSiteStyle = {
   radius: 4,
-  fillColor: "#ff7800",
+  fillColor: "#FF69B4",
   stroke: false,
-  fillOpacity: .9 
+  fillOpacity: .9
 };
 
 // Add base layer
@@ -26,8 +26,8 @@ fetch('https://cdn.glitch.com/b4c1a3a9-c348-41cc-a51f-f70cf7af44f4%2FCoordinates
     pointToLayer: function (geoJsonPoint, latlng) {
      return L.circleMarker(latlng, campSiteStyle);
      },
-     
-   //commented out style  
+
+   //commented out style
      //style: function (geoJsonPoint) {
        //return {
        //campSiteStyle
@@ -36,9 +36,3 @@ fetch('https://cdn.glitch.com/b4c1a3a9-c348-41cc-a51f-f70cf7af44f4%2FCoordinates
     });
   campSites.addTo(map);
   })
- 
-  
-
-                          
-   
-  
