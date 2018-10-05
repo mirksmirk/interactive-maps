@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp1",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.100441906490595,
+          68.39673056520346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp2",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.001770589230183,
+          68.39678453736238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp3",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.97909245538927,
+          68.35066803987492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp4",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.846511848261457,
+          68.28453229272635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp5",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.764270349348468,
+          68.21590109729638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp6",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.924309176866338,
+          68.17275923431107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp7",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16865891220414,
+          68.20130493095677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp8",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.22457408964536,
+          68.23815671544766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp9",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.162383907100033,
+          68.29096814156337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "camp10",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.138817699439425,
+          68.34352967245087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "name": "basecamp",
+        "Type": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.163386,
+          68.419356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo1",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09868812561035,
+          68.39760011213559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo2",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.027191162109375,
+          68.40625678521411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo3",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.97558029174805,
+          68.35097427551199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo5",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8472900390625,
+          68.27726644426957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo4",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.970199584960938,
+          68.33640386797849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo6",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.76763916015625,
+          68.26074149170017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo7",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.911834716796875,
+          68.17385290311042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo8",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.183746337890625,
+          68.20293739742812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo9",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.22872161865234,
+          68.23949573000581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo10",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.219108581542965,
+          68.2379683278899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo11",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.160400390625,
+          68.29035080321077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo12",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.136367797851562,
+          68.34628742342096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9151b",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "photo13",
+        "Type": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.159713745117188,
+          68.41951972617763
+        ]
+      }
+    }
+  ]
+}
